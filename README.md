@@ -30,7 +30,7 @@ This binary classification model aids urban planning, resource allocation, and d
 - Matplotlib – for data and model visualization
 - Jupyter Notebook – for interactive development
 
-- ⚙️ Workflow
+⚙️ Workflow
 
  🔍 1. Data Wrangling
 - Connected to the SQLite database
